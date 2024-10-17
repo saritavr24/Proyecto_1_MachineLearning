@@ -1,1 +1,7 @@
-/venv
+# Ignorar archivos grandes
+australian_user_reviews
+australian_users_items
+output_steam_games
+
+# Ignorar el entorno virtual
+venv/
